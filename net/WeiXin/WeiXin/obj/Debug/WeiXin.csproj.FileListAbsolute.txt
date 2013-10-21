@@ -1,0 +1,5 @@
+D:\job\net\WeiXin\WeiXin\obj\Debug\ResolveAssemblyReference.cache
+D:\job\net\WeiXin\WeiXin\bin\WeiXin.dll
+D:\job\net\WeiXin\WeiXin\bin\WeiXin.pdb
+D:\job\net\WeiXin\WeiXin\obj\Debug\WeiXin.dll
+D:\job\net\WeiXin\WeiXin\obj\Debug\WeiXin.pdb
